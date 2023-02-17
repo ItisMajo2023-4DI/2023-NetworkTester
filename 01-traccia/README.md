@@ -8,6 +8,10 @@ Realizzare un network monitor in grado di:
 4. I test possibili sono di tre tipi: ping, telnet e HTTP Get
 5. Il lancio della batteria di test va legato ad un bottone
 
+Opzionalmente si possono aggiungere le seguenti funzionalità avanzate:
+1. Esecuzione dei comandi da terminale
+2. Esecuzione in parallelo dei test (opzionale)
+
 ![Esempio Network Test](EsempioNetworkTest.png)
 
 ## La struttura del file dei test
