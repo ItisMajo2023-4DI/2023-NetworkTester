@@ -4,7 +4,7 @@
 
 Si richiede di produrre un documento che descrive in cosa consiste il progetto e come si intente procedere per la sua realizzazione. Nella stesura dei contenuti si consiglia di utilizzare i criteri di valutazione sotto esposti come guida.
 
-Il file contenente il progetto deve essere scritto utilizzando il formato [Markdown](https://daringfireball.net/projects/markdown/), caricato in questa cartella e nominato seguendo lo schema Progetto-COGNOME.md, se il lavoro è indivisuale, Progetto-NOMEGRUPPO.md, se il lavoro è di gruppo.
+Il file contenente il progetto deve essere scritto utilizzando il formato [Markdown](https://daringfireball.net/projects/markdown/), caricato in questa cartella e nominato seguendo lo schema Progetto-COGNOME.md.
 
 ## Criteri di valutazione
 
@@ -26,5 +26,4 @@ Nella valutazione del documento di progetto si assegnerà un punteggio da 0 (non
 
 - (Z) Pianifica il lavoro indicando una serie di fasi nelle quali intendi suddividere la realizzazione
 - (Z) Ipotizza la durata di ogni fase
-- (Z) Organizza la distribuzione del lavoro tra i membri del gruppo, se il lavoro non è individuale
 - (A) Argomenta come si collega ciò che stai realizzando con la teoria della materia, altre materie oppure soluzioni già esistenti.
